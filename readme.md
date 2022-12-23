@@ -8,7 +8,7 @@
 
 [CSS Box Model](https://zareel.hashnode.dev/css-box-model-padding-border-margin)
 
-C:\Users\ZAREEL KALAM\OneDrive\Desktop\zar\articleAssignments\images\borderbox.png
+![borderbox](https://user-images.githubusercontent.com/110910838/209366956-eb09f451-fac4-482b-bc23-665e6bc610ed.png)
 
 ## 2. Flex Box CSS
 
