@@ -14,10 +14,11 @@
 
 [CSS Flexbox](https://zareel.hashnode.dev/css-flexbox)
 
-![image](./images/flexbox.png)
+![flexbox](https://user-images.githubusercontent.com/110910838/209367233-74ba4124-be41-448a-991f-f2a4d9e13464.png)
+
 
 ## 3. Positioning (CSS)
 
 [CSS Positioning](https://zareel.hashnode.dev/css-position-property)
 
-![image](./images/position.png)
+![position](https://user-images.githubusercontent.com/110910838/209367253-3e8910bc-35c3-4392-ad5e-181c81e5fbfe.png)
