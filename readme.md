@@ -31,6 +31,6 @@
 
 ## 5. HTML Input Elements
 
-[coming soon]()
+[link](https://zareel.hashnode.dev/input-elements)
 
 ![Username (5)](https://user-images.githubusercontent.com/110910838/210101325-703ad177-6fa9-4e64-a0ad-e1b61051674d.png)
